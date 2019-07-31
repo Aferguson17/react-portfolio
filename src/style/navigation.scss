@@ -2,6 +2,16 @@
     display: flex;
     justify-content: space-between;
     padding: 30px;
+    padding-bottom: 10px;
+    background: $dark-purple;
+  
+  nav a {
+      font: 1.2em/1em sans-serif;
+      display: inline-block;
+      padding: 10px 15px;
+      text-decoration: none;
+      color: $light-gold;
+  }
     
     .right-side {
       a {
@@ -12,6 +22,14 @@
 
         &:hover {
           color: $dark-teal;
+        }
+      }
+
+      .myName {
+        color: $light-gold;
+
+        &:hover {
+          color: $gold;
         }
       }
     }
@@ -29,20 +47,20 @@
       font-size: 0.9rem;
   
       a {
-        color: $grey;
+        color: $light-gold;
         text-decoration: none;
         &:hover {
-          color: black;
+          color: $gold;
         }
       }
   
       &:hover {
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid $gold;
       }
   
       .nav-link-active {
-        color: black;
-        border-bottom: 1px solid transparent;
+        color: $gold;
+        border-bottom: 3px solid transparent;
       }
     }
   }

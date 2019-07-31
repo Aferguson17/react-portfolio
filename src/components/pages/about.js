@@ -12,16 +12,12 @@ export default function() {
       }}
     />
     <div className="right-column">
-    <p>Duis sollicitudin est et faucibus bibendum. Suspendisse sed rutrum nulla. 
-    Praesent feugiat in nisi vitae sagittis.</p> 
+    <p>My name is Ashley Ferguson and I am a native to Arizona. I attended Arizona State University for a bachelor's degree in English and San Jose State University for a master's in Library and Information Science.</p> 
     
-    <p>Vestibulum viverra commodo dui, ac varius massa tempor vel. Suspendisse facilisis sapien quam, non viverra quam rhoncus condimentum. 
-    Praesent fringilla sodales orci, vel lobortis eros varius vitae. Nam tempor semper suscipit. Vestibulum maximus risus nisl, et malesuada mi fringilla vel. 
-    Vestibulum arcu metus, consequat sit amet velit in, egestas ullamcorper leo. </p>
+    <p>My background in technology began when I worked for a tech store in the electronic components department. I taught myself what each product did by reading about each item and eventually learned how to build computers form scratch. 
+      It wasn't until later where I realized that this was the field that I wanted to work in. I made a trasition from non-profits to software in 2017. I have worked in QA for the last two years for Naviga, and have gaind experience in JIRA, Selenium, Jenkins and Postman.</p>
 
-    <p>Morbi non congue augue. Donec bibendum rhoncus augue, et bibendum lectus fermentum et. 
-    Nulla tincidunt elementum nulla, ac porttitor lorem convallis quis. 
-    Nulla facilisi. Vestibulum imperdiet neque rutrum massa sagittis gravida.</p>
+    <p>The next big venture I would like ot make is to transition into software development. I was given the incredible opportunity to ex[pand what I have learned about web programming through Bottega. A software company called Axosoft sponsored a scholarship to attend Bottega to become a full-stacked devloper.</p>
     </div>
     </div>
   )
