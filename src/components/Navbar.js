@@ -2,13 +2,15 @@ import React from "react";
 
 export default function Navbar() {
     return (
-
-        <div>
-            <a>
-                <a href="#about"></a>
-                <a href="#projects"></a>
-                <a href="#contact"></a>
-            </a>
-        </div>
+    
+        <header>
+            <div>
+                <a>
+                    <a href="#about">Ashley Ferguson</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
+                </a>
+            </div>
+        </header>
     );
 }
