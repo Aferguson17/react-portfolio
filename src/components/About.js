@@ -12,12 +12,12 @@ export default function About() {
                     </p>
                     <div>
                     <a href="#projects"> 
-                    My Projects
+                    Projects
                     </a>
                     </div>
                     <div>
                     <a href="#contact">
-                    Contact Me
+                    Contact
                     </a>
                     </div>
                 </div>
